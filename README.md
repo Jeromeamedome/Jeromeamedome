@@ -24,7 +24,7 @@
 
 ---
 
-### 🧑‍💻 À propos de moi
+###  À propos de moi
 
 Je construis des solutions intelligentes à l'intersection de la **Vision par Ordinateur (Computer Vision)**, de l'**automatisation web** et du **développement Full-Stack**. 
 
@@ -32,15 +32,15 @@ Je construis des solutions intelligentes à l'intersection de la **Vision par Or
 
 -  **Exploration actuelle :** Modèles génératifs open-source (vidéo/image), architectures NoSQL avancées et développement Frontend collaboratif.
   
-- 🤝 **Engagement communautaire :** Impliqué dans l'écosystème tech local à Lomé (bénévole tech, concours de digitalisation des services publics).
+-  **Engagement communautaire :** Impliqué dans l'écosystème tech local à Lomé (bénévole tech, concours de digitalisation des services publics).
   
-- ⚡ **Fun facts :** Quand je ne code pas, je m'entraîne au vol de drone FPV en simulation, je résous des Rubik's Cubes ou je perfectionne mon anglais conversationnel.
+-  **Fun facts :** Quand je ne code pas, je m'entraîne au vol de drone FPV en simulation, je résous des Rubik's Cubes ou je perfectionne mon anglais conversationnel.
 
 ---
 
-### 🛠️ Stack Technique & Outils
+###  Stack Technique & Outils
 
-#### 🤖 Intelligence Artificielle, Data & Scraping
+####  Intelligence Artificielle, Data & Scraping
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
@@ -51,7 +51,7 @@ Je construis des solutions intelligentes à l'intersection de la **Vision par Or
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Colab" />
 </p>
 
-#### 🌐 Développement Web & Bases de Données
+####  Développement Web & Bases de Données
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -71,7 +71,7 @@ Je construis des solutions intelligentes à l'intersection de la **Vision par Or
 
 ---
 
-### 📊 Statistiques GitHub
+###  Statistiques GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jerome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
